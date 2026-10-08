@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Rockwell%20Sinaga&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=220&section=header&text=Rockwell%20Sinaga&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" />
 
 ### Hi there, I'm Rockwell! 👋
 
