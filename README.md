@@ -21,8 +21,8 @@ Passionate about building web applications, solving problems, and exploring mode
 
 ## About Me
 
-- 🎓 Computer Engineering Graduate from Universitas Diponegoro
-- 💻 Focused on Full-Stack Web Development
+- 🎓 Computer Engineering Graduate from Diponegoro University
+- 💻 Focused on Software Engineering and Web Development
 - 🌱 Exploring modern frameworks and backend technologies
 - 🛠️ Experienced in building web applications and IoT-based systems
 - 🚀 Interested in creating practical and impactful software solutions
