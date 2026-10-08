@@ -26,3 +26,20 @@ Passionate about building web applications, solving problems, and exploring mode
 - 🌱 Exploring modern frameworks and backend technologies
 - 🛠️ Experienced in building web applications and IoT-based systems
 - 🚀 Interested in creating practical and impactful software solutions
+
+
+---
+
+<div align="center">
+
+<h2>GitHub Statistics</h2>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rockwellsinaga&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockwellsinaga&layout=compact&theme=tokyonight&hide_border=true" />
+
+<h3>Contribution Streak</h3>
+
+<img src="https://streak-stats.demolab.com/?user=rockwellsinaga&theme=tokyonight&hide_border=true" />
+
+</div>
